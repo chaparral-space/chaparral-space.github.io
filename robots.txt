@@ -1,2 +1,143 @@
 User-agent: *
 Disallow: /
+
+#        .,oo8888888888888888ooo,.
+#     ,od88888888888888888888888888oo,
+#  ,o0MMMMMMMMNMMMMM8888888888888888888o.
+# d888888888V'.o   ```VoooooooOOOOOOOOIII,
+# l888LLLLl:  O , ,O    ``VlMM88888IIAMMMMMOMb,
+# l8888888LLb `VooV',O,MoodlM88888IIIMMMMV'ddMOMb,
+# l88888888888booooooOlllllIIIIIIIIIAMMV',dMMOOMMMb,
+# 888888888888888888LLLLIAMMMMMMMMMMMMMMMMMOOOMMMMMMb,
+# 8M8888888888LLLMMMAAMMMAAMMMMMMMMMMMMMMOOOOMMMMMMMMb
+# 88M8888888lll888888mmmmmmmmmmmmmmvvvvvvvvvvvvv,`MMMM
+# 8888M888888llllllllllllllV::::V''~~        ~~'V lMMV
+# M8888MMM888888TTTMl8lllllb:::V'                `IiM'
+# MMMMM8888M8k88888l8Mklllllk:A'                  `V'
+# lMMMMMM888888888888MMMMMlll:M  
+# l8MM8MMMM8888888888888MMMMllM
+
+User-agent: *
+Disallow: /wiki/in*
+Disallow: /wiki/ap*
+Disallow: /wiki/Us*
+Disallow: /wiki/Me*
+Disallow: /wiki/Sp*
+Disallow: /wiki/Bo*
+Disallow: /wiki/Cl*
+Disallow: /wiki/Участ*
+Disallow: /wiki/Служе*
+Disallow: /wiki/Обсуж*
+Disallow: /wiki/Тема:*
+Disallow: /wiki/Кни*
+Disallow: /wiki/Кате*
+Disallow: /wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA:*
+Disallow: /wiki/%D0%A3%D1%87%D0%B0%D1%81%D1%82%D0%BD%D0%B8%D0%BA%3A*
+Disallow: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F:*
+Disallow: /wiki/%D0%A1%D0%BB%D1%83%D0%B6%D0%B5%D0%B1%D0%BD%D0%B0%D1%8F%3A*
+Disallow: /wiki/%D0%9E%D0%B1%D1%81%D1%83%D0%B6%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5*
+Disallow: /wiki/%D0%A2%D0%B5%D0%BC%D0%B0:*
+Disallow: /wiki/%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0*
+Disallow: /wiki/%d3%f7%e0%f1%f2%ed%e8%ea:*
+Disallow: /wiki/%d3%f7%e0%f1%f2%ed%e8%ea%3a*
+Disallow: /wiki/%d1%eb%f3%e6%e5%e1%ed%e0%ff:*
+Disallow: /wiki/%d1%eb%f3%e6%e5%e1%ed%e0%ff%3a*
+Disallow: /wiki/Учение_дона*
+Disallow: /wiki/The_Teachings_of*
+Disallow: /wiki/Отдельная_реальность*
+Disallow: /wiki/A_Separate_Reality*
+Disallow: /wiki/Путешествие_в_Икстлан*
+Disallow: /wiki/Journey_to_Ixtlan*
+Disallow: /wiki/Сказки_о_силе*
+Disallow: /wiki/Tales_of_Power*
+Disallow: /wiki/Второе_кольцо_силы*
+Disallow: /wiki/The_Second_Ring_of_Power*
+Disallow: /wiki/Дар_Орла*
+Disallow: /wiki/The_Eagle's_Gift*
+Disallow: /wiki/Огонь_изнутри*
+Disallow: /wiki/The_Fire_From_Within*
+Disallow: /wiki/Сила_безмолвия*
+Disallow: /wiki/The_Power_of_Silence*
+Disallow: /wiki/Искусство_сновидения*
+Disallow: /wiki/The_Art_of_Dreaming*
+Disallow: /wiki/Активная_сторона_бесконечности*
+Disallow: /wiki/The_Active_Side_of_Infinity*
+Disallow: /wiki/Колесо_времени*
+Disallow: /wiki/The_Wheel_of_Time*
+Disallow: /wiki/Магические_пассы*
+Disallow: /wiki/Magical_Passes*
+Disallow: /wiki/Сон_ведьмы*
+Disallow: /wiki/The_Witch's_Dream*
+Disallow: /wiki/Жизнь_в_сновидении*
+Disallow: /wiki/Being_in_Dreaming*
+Disallow: /wiki/Магический_переход*
+Disallow: /wiki/The_Sorcerers'_Crossing*
+Disallow: /wiki/К1
+Disallow: /wiki/К2
+Disallow: /wiki/К3
+Disallow: /wiki/К4
+Disallow: /wiki/К5
+Disallow: /wiki/К6
+Disallow: /wiki/К7
+Disallow: /wiki/К8
+Disallow: /wiki/К9
+Disallow: /wiki/К10
+Disallow: /wiki/К11
+Disallow: /wiki/К12
+
+User-agent: ia_archiver
+Disallow: /
+
+User-agent: archive.org_bot
+Disallow: /
+
+User-agent: Baiduspider
+Disallow: /
+
+User-agent: BUbiNG
+Disallow: /
+
+User-agent: AhrefsBot 
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: Semrushbot-SA
+Disallow: /
+
+User-agent: Semrushbot-SI
+Disallow: /
+
+User-agent: 008
+Disallow: /
+
+User-agent: Yahoo Pipes 2.0  
+Disallow: / 
+
+User-agent: ltx71
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: VelenPublicWebCrawler
+Disallow: /
+
+User-agent: Seekport Crawler
+Disallow: /
+
+User-agent: msnbot
+Disallow: /
+
+User-agent: MSNBot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+Sitemap: https://chaparral.space/wiki/sm/sitemap-index-chaparral_wiki.xml
+Host: https://chaparral.space
