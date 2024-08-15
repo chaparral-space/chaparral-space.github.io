@@ -82,5 +82,5 @@ Disallow: /wiki/К10
 Disallow: /wiki/К11
 Disallow: /wiki/К12
 
-Sitemap: https://chaparral.space/wiki/sm/sitemap-index-chaparral_wiki.xml
-Host: https://chaparral.space
+Sitemap: https://chaparral-space.github.io/sitemap-index-chaparral_wiki.xml
+Host: https://chaparral-space.github.io
